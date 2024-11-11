@@ -1,0 +1,25 @@
+name: Dark Void
+accent: '#1bfd9c'  # Using the search_highlight color as accent
+background: '#1c1c1c'  # Terminal background color
+foreground: '#c0c0c0'  # The foreground color
+cursor: '#bdfe58'  # The cursor color
+details: darker  # This is a dark theme
+terminal_colors:
+  normal:
+    black: '#1c1c1c'
+    red: '#ffb3ba'
+    green: '#baffc9'
+    yellow: '#ffffba'
+    blue: '#7fa1c3'
+    magenta: '#dea6a0'
+    cyan: '#66b2b2'
+    white: '#c0c0c0'
+  bright:
+    black: '#404040'
+    red: '#ffb3ba'
+    green: '#baffc9'
+    yellow: '#ffffba'
+    blue: '#7fa1c3'
+    magenta: '#dea6a0'
+    cyan: '#66b2b2'
+    white: '#e6e6e6'
